@@ -1,6 +1,8 @@
 # ReKuShE-One
 # this tool for hacker facebook
 
+
+
 * pkg install update && pkg install upgrade -y
 
 * pkg install python
@@ -10,6 +12,9 @@
 * pkg install cat
 
 * pkg install git
+
+
+
 
 # dev : ReKuShE
 

@@ -1,25 +1,13 @@
-# ReKuShE-One
-# this tool for hacker facebook
+ # New termux √
+ 
+ -- This script for update termux with python language library os .
+ 
 
+`pkg install git `
 
+`git clone https://githib.com/iraq-hacker/NewTermux.git`
 
-* pkg install update && pkg install upgrade -y
+`cd NewTermux`
 
-* pkg install python
+`mv start.py cd ../usr/etc/apt/`
 
-* pkg install nano
-
-* pkg install cat
-
-* pkg install git
-
-
-
-
-# dev : ReKuShE
-
-# YouTube :- iraqhacker
-
-# channel telegram :-@Professional_school
-
-# my account in telegram :- @iiwiw

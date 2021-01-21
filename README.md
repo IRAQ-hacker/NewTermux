@@ -19,11 +19,13 @@
 copy the path
 
 2- 👇🏽👇🏽
+
 `git clone https://githib.com/iraq-hacker/NewTermux.git`
 
 `cd NewTermux`
 
 ` mv start.py the path `
+
 
 follow me in :
 

@@ -5,10 +5,15 @@
 1-👇🏽👇🏽
 
 `pkg install git `
+
 `cd ..`
+
 `cd usr`
+
 `cd etc`
+
 `cd apt`
+
 `pwd`
 
 copy the path
@@ -17,6 +22,7 @@ copy the path
 `git clone https://githib.com/iraq-hacker/NewTermux.git`
 
 `cd NewTermux`
+
 ` mv start.py the path `
 
 follow me in :

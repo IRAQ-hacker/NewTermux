@@ -2,14 +2,22 @@
  
  -- This script for update termux with python language library os .
  
+1-👇🏽👇🏽
 
 `pkg install git `
+`cd ..`
+`cd usr`
+`cd etc`
+`cd apt`
+`pwd`
 
+copy the path
+
+2- 👇🏽👇🏽
 `git clone https://githib.com/iraq-hacker/NewTermux.git`
 
 `cd NewTermux`
-
-`mv start.py cd ../usr/etc/apt/`
+` mv start.py the path `
 
 follow me in :
 

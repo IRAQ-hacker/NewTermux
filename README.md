@@ -20,7 +20,7 @@ copy the path
 
 2- 👇🏽👇🏽
 
-`git clone https://githib.com/iraq-hacker/NewTermux.git`
+`git clone https://github.com/iraq-hacker/NewTermux.git`
 
 `cd NewTermux`
 
@@ -36,4 +36,5 @@ follow me in :
 [![30%](https://img.shields.io/badge/subscribe%20-%20inmyYouTube-red)](https://youtube.com/channel/UCCgmIKpPgUOQauZ3IvrchBA)
 
 - Dev ReKuShE
+
 
